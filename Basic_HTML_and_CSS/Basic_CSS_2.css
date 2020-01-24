@@ -1,0 +1,15 @@
+p	{
+	color: magenta;
+	background-color: black;
+	font-size: 40px;
+	text-align: right;
+}
+
+/*text-shadow property does what the name says
+syntax is: 
+			text-shadow: h-shadow v shadow blur-radius color
+*/
+
+h1	{
+	text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}

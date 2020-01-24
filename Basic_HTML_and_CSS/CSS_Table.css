@@ -1,0 +1,25 @@
+/*places a border around the table*/
+
+table	{
+	border: 5px dotted purple;
+}
+
+/*adds hover effect making the background color of the cells change as the
+mouse hovers over them*/
+
+td:hover	{
+	background-color: violet;
+	color: white;
+}
+
+/*changes top row background color and font color*/
+
+tr,th	{
+	background-color: black;
+	color: white;
+}
+
+tr,td	{
+	background-color: lightblue;
+	color: lightyellow;
+}
