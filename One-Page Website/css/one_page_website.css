@@ -1,0 +1,15 @@
+body    {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.form input[type="text"]    {
+    width: 25%;
+    margin: 20px 1em;
+    border-top: 5px solid darkblue;
+    border-right: 2px dotted red;
+    border-bottom: 5px solid darkblue;
+    border-left: 2px dotted red;
+    border-radius: 15px;
+    text-align: center;
+}
